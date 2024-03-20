@@ -7,7 +7,9 @@
 ## El proyecto se encuentra en la carpeta llamada "todo_list"
 
 # Conclusión
-En este proyecto de desarrollo de una aplicación de lista de tareas utilizando React, se han implementado varias funcionalidades clave para administrar y organizar tareas. Esto con la intención de aprender más sobre muchas todos estos elementos y funcionalidades de react
+En este proyecto de desarrollo de una aplicación de lista de tareas utilizando React, se han implementado varias funcionalidades clave para administrar y organizar tareas. Esto con la intención de aprender más sobre muchas todos estos elementos y funcionalidades de react.
+
+Considero que la herramienta Skills Network es bastante interesante y útil, ya que proporcionó una excelente guía sobre cómo desarrollar la aplicación del To-Do List. Es la primera vez que utilizo esta plataforma y realmente me ha gustado mucho. Creo que podré sacarle bastante provecho en futuros proyectos y seguir aprendiendo sobre desarrollo de aplicaciones con React.
 
 ## Funcionalidades Destacadas:
 
